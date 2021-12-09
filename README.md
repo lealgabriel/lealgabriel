@@ -3,6 +3,10 @@
 - 🌱 programming Language: C#
 - 💞️ I am looking to collaborate positively in a company.
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/g-abrielleal/
+- 
+- ✍ Habilidades (Junior):
+- C#; .NET; GIT; Princípios SOLID.
+- 
 
 <!---
 lealgabriel/lealgabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
