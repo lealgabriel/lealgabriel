@@ -5,7 +5,7 @@
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/g-abrielleal/
 - 
 - ✍ Habilidades (Junior):
-- C#; .NET; GIT; Princípios SOLID.
+- C#; .NET; GIT; Princípios SOLID; Testes Unitários.
 - 
 
 <!---
