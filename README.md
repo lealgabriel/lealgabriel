@@ -15,6 +15,7 @@
 - SOLID
 - Testes Unitários
 
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=lealgabriel&theme=algolia) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lealgabriel&theme=algolia)
 
 <!---
 lealgabriel/lealgabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
