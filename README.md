@@ -10,6 +10,7 @@
 # ✍ Skills
 
 - C#
+- WEB API
 - .NET
 - GIT
 - SOLID
