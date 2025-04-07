@@ -11,6 +11,7 @@
 
 - Python
 - FastApi
+- Docker
 - GIT
 - SOLID
 - Unit Tests
